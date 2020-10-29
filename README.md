@@ -6,7 +6,7 @@ Para cargar el firmware dentro de la controladora de vuelo, tienes que conectar 
 
 Además tienes que estar seguro que este en modo DFU, es el modo donde puedes reprogramar el chip y cargar el firmware.
 
-<img class=" wp-image-2717 alignright" src="https://www.midronedecarreras.com/wp-content/uploads/2019/05/DFU_Betaflight.jpg">
+<img src="https://www.midronedecarreras.com/wp-content/uploads/2019/05/DFU_Betaflight.jpg">
 
 Una vez esto tienes seleccionar la placa que quieres flashear y el firmware de betaflight que quieres cargar en la controladora.
 
